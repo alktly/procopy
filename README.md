@@ -1,6 +1,6 @@
 # procopy README
 
-Proocopy is a small extension that will help you very quickly create a local copies of your project in predefined directory.
+Proocopy is a small extension that will help you very quickly create local copies of your project in predefined directory.
 
 ## Features
 
